@@ -1,10 +1,10 @@
 # --- Basic options --- #
 
 # Name of website
-title: Looking for a girl
+title: This Could Be You
 
 # Short description of your site
-description: An introvert's view on finding a girlfriend
+description: We'll build your resume for the public to see
 
 # Your name to show in the footer
 author: Ben Simpson
@@ -12,9 +12,9 @@ author: Ben Simpson
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Your Site: "aboutme"
   Resources:
-    - Perks: "https://beautifuljekyll.com"
+    - Our Process: "https://beautifuljekyll.com"
     - Pros: "https://www.markdowntutorial.com/"
     
 
@@ -41,7 +41,7 @@ social-network-links:
   email: "strengthofthemountain@gmail.com"
   facebook: 
   github: TheTechSurgeon
-  twitter: daattali
+  twitter: 
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
@@ -80,14 +80,14 @@ excerpt_length: 50
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#1a118f"
-navbar-text-col: "#00bfac"
-navbar-border-col: "#EAEAEA"
-page-col: "black"
+navbar-col: "8A1A54"
+navbar-text-col: "#333333"
+navbar-border-col: "FE93C3"
+page-col: "#F5F8F8"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "##08b9c9"
-footer-text-col: "#00bfac"
+footer-text-col: "#333333"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
